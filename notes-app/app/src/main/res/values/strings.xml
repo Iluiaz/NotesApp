@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="add_note">Add note</string>
+    <string name="edit_note">Edit note</string>
+    <string name="delete_note">Delete note</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="empty_state">There are no notes yet. Tap the button below to create the first one.</string>
+    <string name="delete_confirmation">Delete note "%1$s"?</string>
+    <string name="validation_error">Please fill in the note title.</string>
+</resources>
+
